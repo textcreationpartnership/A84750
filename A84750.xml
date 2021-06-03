@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble remonstrance from his Excellency Sir Thomas Fairfax: concerning the great sufferings and grievances of divers, whose cases are represented to the Parliament. Read in the House of Commons. the 14. day of September 1647. Die Martis, Septem. 14. 1647. Ordered by the Commons in Parliament assembled, that this businesse be referred to the consideration, and examination of the Committee of Indemnity, to relieve them as they shall see cause, if they have power, otherwayes to make speedy report to the House. H. Elsynge Cler. Par, Dom, Com.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84750</idno><idno type="EEBO-CITATION">99862443</idno>
+  <idno type="VID">160509</idno>
+  <idno type="EEBO-PROQUEST">2240959820</idno>
+  
+            <idno type="STC">Wing F167</idno>
+            <idno type="STC">Thomason E407_15</idno>
+            <idno type="STC">ESTC R201976</idno>
+            <idno type="PROQUEST">99862443</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862443e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160509)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble remonstrance from his Excellency Sir Thomas Fairfax: concerning the great sufferings and grievances of divers, whose cases are represented to the Parliament. Read in the House of Commons. the 14. day of September 1647. Die Martis, Septem. 14. 1647. Ordered by the Commons in Parliament assembled, that this businesse be referred to the consideration, and examination of the Committee of Indemnity, to relieve them as they shall see cause, if they have power, otherwayes to make speedy report to the House. H. Elsynge Cler. Par, Dom, Com.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson, and are to be sold at his house in Smithfield,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Regarding the cases of James Simball, Francis Wade, Robert White, and Roger Crabb, imprisoned for sedition.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 16.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Simball, James.</term>
+               <term type="personal_name">Wade, Francis, fl. 1647.</term>
+               <term type="personal_name">White, Robert, fl. 1647.</term>
+               <term type="personal_name">Crabb, Roger, fl. 1647.</term>
+               <term type="topical_term">Sedition --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Prisoners and prisons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160509:1"/>
+            <p>
+               <hi>An Humble REMONSTRANCE From his Excellency Sir</hi> THOMAS FAIRFAX: <hi>Concerning The great sufferings and grievances of Divers, whose Cases are represented to the PARLIAMENT.</hi>
+            </p>
+            <p>Read in the House of COMMONS. <hi>the 14. day of</hi> September <hi>1647.</hi>
+            </p>
+            <p>
+               <hi>Die Martis, Septem. 14. 1647.</hi>
+            </p>
+            <p>ORdered by the Commons in Parliament assem<g ref="char:EOLhyphen"/>bled, that this businesse be referred to the consi<g ref="char:EOLhyphen"/>deration, and examination of the Committee of Indem<g ref="char:EOLhyphen"/>nity, to relieve them as they shall see cause, if they have power, otherwayes to make speedy report to the House.</p>
+            <p>
+               <hi>H. Elsynge Cler. Par, Dom, Com.</hi>
+            </p>
+            <p>
+               <hi>Printed at</hi> London <hi>by</hi> Robert Ibbitson, <hi>and are to be sold at his house in Smithfield, 1647.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160509:2"/>
+            <pb n="1" facs="tcp:160509:2"/>
+            <head>An Humble REMONSTRANCE From his <hi>Excellency</hi> Sir <hi>THOMAS FAIRFAX</hi> Concerning The great sufferings and grievances of divers whose cases are represented to the PARLIAMENT.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>THe sad condition and sufferings of di<g ref="char:EOLhyphen"/>vers well-affected to your affaires in the Kingdome is very grievous, and particular<g ref="char:EOLhyphen"/>ly the cases of <hi>James Simball, Francis Wade, Robert White,</hi> and <hi>Roger Crabb.</hi> as they are presented unto mee, which hath induced me to present the inclosed paper to your conside<g ref="char:EOLhyphen"/>ration wherin you may see the manner, na<g ref="char:EOLhyphen"/>ture, and pretences of their sufferings (as presented) and withall the Exorbitancies of some in places of judicature towards such,
+<pb n="2" facs="tcp:160509:3"/> who in the worst of times, exprest much af<g ref="char:EOLhyphen"/>fection, and Reality to your proceedings.</p>
+            <p>And I humbly desire you to move the House to take their condition into considera<g ref="char:EOLhyphen"/>tion, if they be committed meerly for speak<g ref="char:EOLhyphen"/>ing words against the King in time of War (which thing I in no sort approve of, yet) it would do well if the men might have some inlargement, so as they may not perish by a languishing imprisonment, and such cruell usage as some of them suffer, Especially, con<g ref="char:EOLhyphen"/>sidering the offences, for which they suffer, were but in expresse of zeale for your Cause, and that upon apparent provocation, from such (as I am informed) as were your profes<g ref="char:EOLhyphen"/>sed enemies.</p>
+            <p>With all due submission to you, I desire their speedy Inlargement; And freedome of their Estate.</p>
+            <closer>
+               <signed>Your Humble Servant, <hi>THO. FAIRFAX.</hi>
+               </signed>
+               <dateline>
+                  <hi>Putney</hi>
+                  <date>the 12. of <hi>Sep.</hi> 1647.</date>
+               </dateline>
+               <hi>For the Honourable</hi> William Lenthall <hi>Esq; Speaker of the Honourable House of Commons.</hi>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:160509:3"/>
+            <head>THE Particular Cases of severall prisoners returned in the Calender to the <hi>County</hi>-Goale at the White Lion in <hi>Southwarke,</hi> the last Assizes, held at <hi>Darking</hi> for the County of <hi>Surrey. Represented by his Excellency to the Parliament.</hi>
+            </head>
+            <p>
+               <hi>JAmes Symball</hi> Deputy Keeper of <hi>Winchester-house,</hi> lying sick; hearing a Cavalier, there a prisoner, then say, That the Parliament were Rebells and Traytors, and that if the King came to <hi>London</hi> with his Army, he would make the Parliament, a poore Parliament, and exemplary for their Rebellion, by chopping off their heads at the doore. The said Ca<g ref="char:EOLhyphen"/>valier neere two years after boasting of a designe in<g ref="char:EOLhyphen"/>tended against the Parliament, and being questioned for the same by the said <hi>Symball,</hi> out of malice did ac<g ref="char:EOLhyphen"/>cuse him, for speaking against the King, in these words, (<hi>viz. That he</hi> (the said <hi>Symball) hoped to see the Kings head upon the Tower block:</hi> When indeed the said words were spoken in Answer to those above menti<g ref="char:EOLhyphen"/>oned, and upon these conditions: That if the King had any such intention, then he the said <hi>Symball</hi> hoped as aforesaid; and thus much the said Cavalier him<g ref="char:EOLhyphen"/>selfe did confesse, but afterwards denyed. Now the said <hi>Symball</hi> being indited without any cognizance, taken of these circumstances, stands convicted by the onely testimony of the said Cavalier ever since the Assizes held in March last, and adjudged with <hi>Fran<g ref="char:EOLhyphen"/>cis
+<pb n="4" facs="tcp:160509:4"/> Wade,</hi> and <hi>Robert White,</hi> by Serjeant <hi>Creswell,</hi> to forfeit their whole estates, and remain prisoners, du<g ref="char:EOLhyphen"/>ring the Kings pleasure.</p>
+            <p>
+               <hi>Francis Wade</hi> being urged to drinke the Kings health, denyed it, saying, that <hi>King James</hi> said, that the King which ruled not according to his Laws, is no longer a King but a Tyrant: and that the King had put the Parliament out of his protection, and in them the whole kingdome, Therefore no <hi>King.</hi>
+            </p>
+            <p>
+               <hi>Robert White</hi> having been a Souldier in the Parlia<g ref="char:EOLhyphen"/>ments service, was demanded upon his returne, what he would have done to the <hi>King,</hi> had he met him in the head of his Army, answered, hee would have as soon killed him, as another man.</p>
+            <p>
+               <hi>Roger Crabb,</hi> for comparing the <hi>King</hi> to the gol<g ref="char:EOLhyphen"/>den Calfe (which the Israelites worshipped) or words to that purpose) stands convicted by Justice <hi>Bacon,</hi> since <hi>July</hi> 1646. and fined at an hundred Marks, and to lye in Goale till payment.</p>
+            <p>
+               <hi>James Simball</hi> being at this Instant a priso<g ref="char:EOLhyphen"/>ner, and in Irons at the said Goale, was in<g ref="char:EOLhyphen"/>dited by one <hi>Wimball,</hi> formerly a Cavalere son in law, and partner to <hi>Richardson,</hi> keeper and Bayliffe of the Prison called the (<hi>linck,</hi> Now under sequestration, and they (keepers for the State, the said <hi>Symballs</hi> goods being within their liberty as aforesaid.) have seized
+<pb n="5" facs="tcp:160509:4"/> and made stay thereof, as being confiscated to the King.</p>
+            <p>The said <hi>Richardson,</hi> and <hi>Windball</hi> com<g ref="char:EOLhyphen"/>mensing suites in their owne Court, for that the said <hi>Symballs</hi> brother, defending part of the said goods in right of himself, having formerly lent them to the said <hi>James,</hi> his bro<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <hi>Francis Wade, Robert White,</hi> and <hi>Roger Crabb</hi> are returnd as prisoners in the Calender to the <hi>White Lyon,</hi> by Justice <hi>Bacon</hi> who fined Mr. <hi>Devinish</hi> late Keeper of the said County-Goale threescore pounds for suffering the said prisoners to have some liberty.</p>
+            <p>In <hi>Crabs</hi> case the Jury brought him guilty of the words spoken by him, but that they were neither seditious, Scandalous, nor pernitious; Justice <hi>Bacon</hi> used much Argument to per<g ref="char:EOLhyphen"/>swade the Jury to finde the Judgement, they having formerly twice returned him, And caused the said Jury to be locked up all night without meat, drink, fire, or candle, untill they had returned him, as hee stood indited.</p>
+            <div type="order">
+               <pb n="6" facs="tcp:160509:5"/>
+               <opener>
+                  <dateline>
+                     <date>Die Martis Septem. <hi>14. 1647</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>Ordered by the Commons Assembled in Parl. that the businesse concerning some per<g ref="char:EOLhyphen"/>sons prisoners in the white Lyon, Commit<g ref="char:EOLhyphen"/>ted by Justice <hi>Bacon,</hi> and Serjeant <hi>Creswell,</hi> be referred to the consideration and examinati<g ref="char:EOLhyphen"/>on of the Committee of Indempnity, to re<g ref="char:EOLhyphen"/>lieve them as they shall see cause, if they have power, otherwise, to make speedy report to the House.</p>
+               <closer>
+                  <signed>H. Elsying Cler. Par. Dom. Com:</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
